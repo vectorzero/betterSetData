@@ -1,0 +1,19 @@
+{
+  "name": "better-setdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.0.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
