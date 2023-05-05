@@ -2,7 +2,7 @@
   "name": "better-setdata",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/index.min.js",
+  "main": "./dist/betterSetData.min.js",
   "directories": {
     "lib": "lib"
   },
